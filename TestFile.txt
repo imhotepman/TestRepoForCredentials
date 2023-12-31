@@ -1,1 +1,1 @@
-This is a test file for testing Git credentials
+This is a test file for testing Git credentials - 2nd method
